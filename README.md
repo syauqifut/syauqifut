@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Syauqi Futtaqi</h1>
-<h3 align="center">Web Backend Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 I am a web developer with around 3 years of experience and currently taking a bachelor degree majoring in Information Systems at Binus University Online Learning. I am very interested to be here and as always, want to improve and learn new skill also I'm a fast learner and be able to work well
 
