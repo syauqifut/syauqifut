@@ -1,7 +1,6 @@
 Hi , i'm <b>Ahmad Syauqi Futtaqi</b>
 
-I am a web backend developer with around 3 years of experience and currently taking a bachelor degree majoring in Information Systems. I am very interested to be here and as always, want to improve and learn new skill also I'm a fast learner and be able to work well
-
+I am student majoring in Information Systems and experienced in web backend developer for multiple years
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
