@@ -1,7 +1,7 @@
-### Hi folks, it's me, **Syauqi Futtaqi**
+# Hi folks, it's me, **Syauqi Futtaqi**
 Backend Developer | Information Systems Student
 
-### The Tools of the Trade
+## The Tools of the Trade
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%231F1F1F.svg?style=for-the-badge&logo=javascript)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&color=white)
@@ -9,8 +9,8 @@ Backend Developer | Information Systems Student
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
@@ -54,6 +54,6 @@ Backend Developer | Information Systems Student
 
 </details>
 
-#### Keep in Touch
+## Keep in Touch
 <a href="https://linkedin.com/in/syauqifut" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-syauqifut-blue"></a>
 <a href="mailto:syauqifut@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-syauqifut@gmail.com-red"></a>
