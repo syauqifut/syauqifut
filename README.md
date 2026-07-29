@@ -1,5 +1,5 @@
 # Hi, It's Me, **SYAUQI FUTTAQI**
-Backend Developer | Information Systems Student
+Full-stack Developer
 
 ## Dev Kit
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -30,4 +30,4 @@ Backend Developer | Information Systems Student
 
 ## Find Another Me
 <a href="https://linkedin.com/in/syauqifut" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-syauqifut-0e76a8?logo=linkedin&logoColor=0e76a8"></a>
-<a href="https://leetcode.com/u/syauqifut/" target="_blank"><img src="https://img.shields.io/badge/Leetcode-syauqifut-fda019?logo=leetcode&logoColor=fda019"></a>
+<!-- <a href="https://leetcode.com/u/syauqifut/" target="_blank"><img src="https://img.shields.io/badge/Leetcode-syauqifut-fda019?logo=leetcode&logoColor=fda019"></a> -->
